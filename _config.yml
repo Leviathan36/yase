@@ -1,27 +1,11 @@
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-relative-links
 
 title: Leviathan36's blog
 description: 
 
-show_downloads: [false]
+show_downloads: [true]
 
-include: [
-  "./malware_development", 
-  "./malware_development/imgs",
-  "./rest_api_101",
-  "./rest_api_101/0_API_Design",
-  "./rest_api_101/10_type_checking",
-  "./rest_api_101/11_tests",
-  "./rest_api_101/12_docs",
-  "./rest_api_101/13_commands",
-  "./rest_api_101/1_route_naming",
-  "./rest_api_101/2_naming_route_functions",
-  "./rest_api_101/3_http_methods",
-  "./rest_api_101/4_interfaces",
-  "./rest_api_101/5_setup_git_repo",
-  "./rest_api_101/6_new_project",
-  "./rest_api_101/7_pagination",
-  "./rest_api_101/8_auth"
-]
+permalink: /:path/:title.html
