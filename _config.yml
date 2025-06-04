@@ -1,8 +1,8 @@
-remote_theme: pages-themes/leap-day@v0.2.0
+remote_theme: leviathan36/flexible-jekyll
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Leviathan36's blog
+title: Cristian's blog
 description: 
 
 show_downloads: [false]
