@@ -5,3 +5,28 @@ section {
 #banner {
   display: none;
 }
+
+.social-links a svg {
+    width: 24px; /* Smaller default size for desktop */
+    height: 24px;
+    /* ... other styles ... */
+    justify-content: center;
+    gap: 1rem; /* Reduced space between icons for smaller size */
+}
+
+@media (max-width: 768px) {
+    .social-links a svg {
+        width: 28px; /* Slightly larger on tablets */
+        height: 28px;
+    }
+}
+
+@media (max-width: 480px) {
+    .social-links a svg {
+        width: 32px; /* Even larger on mobile for easier tapping */
+        height: 32px;
+    }
+    .social-links {
+        gap: 1.2rem; /* Adjust gap for mobile as well */
+    }
+}
