@@ -90,27 +90,31 @@
 <div class="container">
 
     <div class="article-card">
-        <a href="rest_api_101/index">
-            <div class="article-content">
+        <div class="article-content">
+            <a href="rest_api_101/index">
                 <h2>REST API 101</h2>
                 <p class="subtitle">From design to implementation</p>
-            </div>
-            <div class="article-image">
+            </a>
+        </div>
+        <div class="article-image">
+            <a href="rest_api_101/index">
                 <img src="imgs/index/rest_api_101.png" alt="rest api 101">
-            </div>
-        </a>
+            </a>
+        </div>
     </div>
 
     <div class="article-card">
-        <a href="malware_development/index">
-            <div class="article-content">
+        <div class="article-content">
+            <a href="malware_development/index">
                 <h2>Malware development</h2>
                 <p class="subtitle">Payload, dropper and C&C server</p>
-            </div>
-            <div class="article-image">
+            </a>
+        </div>
+        <div class="article-image">
+            <a href="malware_development/index">
                 <img src="imgs/index/malware_development.png" alt="Malware development">
-            </div>
-        </a>
+            </a>
+        </div>
     </div>
 </div>
 
