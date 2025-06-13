@@ -91,31 +91,21 @@
 
     <div class="article-card">
         <div class="article-content">
-            <h2><a href="#">The Art of Mindful Living in a Busy World</a></h2>
-            <p class="subtitle">Discover practical tips to slow down, be present, and find peace amidst the daily grind.</p>
+            <h2><a href="#">REST API 101</a></h2>
+            <p class="subtitle">From design to implementation</p>
         </div>
         <div class="article-image">
-            <img src="https://placehold.co/600x400" alt="Mindful Living">
+            <img src="imgs/index/rest_api_101.png" alt="rest api 101">
         </div>
     </div>
 
     <div class="article-card">
         <div class="article-content">
-            <h2><a href="#">Understanding Quantum Physics: A Beginner's Guide</a></h2>
-            <p class="subtitle">Demystifying the complex world of subatomic particles and their peculiar behaviors.</p>
+            <h2><a href="#">Malware development</a></h2>
+            <p class="subtitle">Payload, dropper and C&C server</p>
         </div>
         <div class="article-image">
-            <img src="https://placehold.co/600x400" alt="Quantum Physics">
-        </div>
-    </div>
-
-    <div class="article-card">
-        <div class="article-content">
-            <h2><a href="#">The Future of Artificial Intelligence in Everyday Life</a></h2>
-            <p class="subtitle">Exploring how AI is shaping our present and what to expect in the coming decades.</p>
-        </div>
-        <div class="article-image">
-            <img src="https://placehold.co/600x400" alt="Future of AI">
+            <img src="imgs/index/malware_development.png" alt="Malware development">
         </div>
     </div>
 </div>
