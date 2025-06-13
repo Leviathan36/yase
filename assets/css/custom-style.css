@@ -3,15 +3,7 @@ section {
 }
 
 #banner * {
-  display: none;
-}
-
-#logo {
-    display: none;
-}
-
-.button.fork {
-    display: none;
+  visibility: hidden;
 }
 
 .social-links a svg {
