@@ -63,7 +63,7 @@
     .article-image img {
         width: 100%;
         height: 100%;
-        object-fit: cover; /* Crops the image to fit the container without distortion */
+        object-fit: scale-down; /* Crops the image to fit the container without distortion */
         display: block; /* Removes extra space below the image */
     }
 
