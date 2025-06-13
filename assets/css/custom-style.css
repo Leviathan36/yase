@@ -2,8 +2,16 @@ section {
   padding-left: 15px;
 }
 
-div.banner * {
+#banner * {
   display: none;
+}
+
+#logo {
+    display: none;
+}
+
+.button.fork {
+    display: none;
 }
 
 .social-links a svg {
