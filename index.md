@@ -90,7 +90,7 @@
 <div class="container">
 
     <div class="article-card">
-        <a href="rest_api_101/index.md">
+        <a href="rest_api_101/index">
             <div class="article-content">
                 <h2>REST API 101</h2>
                 <p class="subtitle">From design to implementation</p>
@@ -102,7 +102,7 @@
     </div>
 
     <div class="article-card">
-        <a href="malware_development/index.md">
+        <a href="malware_development/index">
             <div class="article-content">
                 <h2>Malware development</h2>
                 <p class="subtitle">Payload, dropper and C&C server</p>
