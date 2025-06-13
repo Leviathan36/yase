@@ -1,4 +1,4 @@
-# which methods to use (get/post/put...)
+# Which methods to use (get/post/put...)
 
 Unlike other types of APIs, such as RPC APIs, REST APIs use standard HTTP methods to indicate the type of operation to be performed on a resource, data, database entity, or code object. For example, if we want to add a new record to the "orders" table in the database, we would code a function that, upon a `POST /v1/order` request, adds a new order with that ID to the database (along with any other parameters in the body of the POST request).
 
