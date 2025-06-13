@@ -2,11 +2,7 @@ section {
   padding-left: 15px;
 }
 
-#banner * {
-  display: none;
-}
-
-.banner * {
+div.banner * {
   display: none;
 }
 
