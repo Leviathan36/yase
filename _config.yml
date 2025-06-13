@@ -2,7 +2,5 @@ remote_theme: leviathan36/leap-day
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Leviathan36's blog
-description: 
-
-show_downloads: [true]
+title: YASE
+description: Yet Another Software Engineer
