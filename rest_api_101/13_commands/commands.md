@@ -12,8 +12,6 @@ git init
 poetry install
 ```
 
-(Note: Changed the code block language to `bash` for these shell commands, and `python` to `bash` or `yaml` where appropriate in subsequent blocks if they represent shell commands or YAML content, respectively. If a block contains Python-specific syntax being commented on, `python` is kept.)
-
 ## Documentation
 
 ```bash
@@ -48,5 +46,3 @@ wapiti -u http://127.0.0.1:8000/ \
 # See: https://fastapi.tiangolo.com/deployment/manually/#use-the-fastapi-run-command
 fastapi run main.py
 ```
-
-(Note: The original `toml` for the code block language seemed incorrect for a run command; changed to `bash` as it's a shell command. If `main.py` is intended to be the content of a TOML file, the language hint should reflect that, but typically `fastapi run` is a CLI command.)
