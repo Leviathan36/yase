@@ -88,7 +88,7 @@
 </style>
 
 <div class="container">
-
+    <img src="https://komarev.com/ghpvc/?username=leviathan36&color=blue&label=total_views">
     <div class="article-card">
         <div class="article-content">
             <a href="rest_api_101/index">
@@ -102,7 +102,6 @@
             </a>
         </div>
     </div>
-
     <div class="article-card">
         <div class="article-content">
             <a href="malware_development/index">
